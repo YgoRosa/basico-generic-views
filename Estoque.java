@@ -1,4 +1,4 @@
-package Exercicios.Generics;
+package Exercicios.Collections.Generics;
 
 import java.util.ArrayList;
 import java.util.List;
